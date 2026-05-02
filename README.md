@@ -2,7 +2,7 @@
 
 Personal portfolio website for Rey (Cra3ture) — UI/UX designer, motion designer, and animator based in Sri Lanka.
 
-**Live site:** [www.cra3ture.live](https://www.cra3ture.live)
+**Live site:** [https://my-repo-self-seven.vercel.app/]((https://my-repo-self-seven.vercel.app/))
 
 ## Stack
 
